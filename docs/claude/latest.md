@@ -1,7 +1,17 @@
 # Latest - Claude
 
-Last updated: 2026-10-17 14:17
+Last updated: 2026-10-17 23:20
 
-## Status
-- 10 distinct Northmen camp and raid mobs established with balanced magic tiers (heavy forge, blood, gold wards, frost, physical siege).
-- Excluded divine/god entities and moved village Völva to neutral NPC catalog.
+## Vraag
+- Alles committen + pushen, repo publiek maken, `.env`/`.gitignore` gevoelige bestanden laten verbergen.
+
+## Gedaan
+- Secret-scan op alle tracked files: niets gevonden. `.env` leeg en genegeerd.
+- `.gitignore` uitgebreid: `.env.*`, `*.key`, `*.pem`, `.claude/settings.local.json`, editor/OS-rommel.
+- Commit + push naar `origin/main`, repo `Tivek87/FSMContent` op public gezet.
+
+## Bestanden
+- `.gitignore`, `docs/claude/latest.md`
+
+## Open
+- Geen.

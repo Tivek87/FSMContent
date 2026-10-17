@@ -1,2 +1,18 @@
 # Local environment
 .env
+.env.*
+!.env.example
+*.key
+*.pem
+
+# Claude / AI local settings
+.claude/settings.local.json
+
+# Editor / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini
+*.tmp
+*.log
